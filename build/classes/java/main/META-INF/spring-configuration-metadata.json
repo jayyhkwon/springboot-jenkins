@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "fruit",
+      "type": "com.firstspringboot.demo.FruitProperty",
+      "sourceType": "com.firstspringboot.demo.FruitProperty"
+    }
+  ],
+  "properties": [
+    {
+      "name": "fruit.list",
+      "type": "java.util.List<com.firstspringboot.demo.Fruit>",
+      "sourceType": "com.firstspringboot.demo.FruitProperty"
+    }
+  ],
+  "hints": []
+}
